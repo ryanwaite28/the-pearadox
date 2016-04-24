@@ -1,0 +1,49 @@
+/* New Mobile Style */
+
+@media only screen and (max-width: 1000px) {
+
+	#drop-arrow {
+		display: block;
+	}
+
+	#topbar {
+		min-height: 100px;
+	}
+
+	#top-text {
+		width: 100%;
+		display: block;
+	}
+
+	#left-top , #right-top {
+		display: none;
+		width: 100%;
+		height: auto;
+	}
+
+	 {
+		display: none;
+		width: 100%;
+		height: auto;
+	}
+
+	#slides {
+    padding-top: 175px;
+	}
+
+	.top-links , .top-icons {
+		height: auto;
+		padding: 35px;
+	}
+
+	.top-links li , .top-icons li {
+	  padding: 0px 10px 0px 10px;
+	}
+
+	.top-icons li a img {
+	  height: 50px;
+	  width: 50px;
+	  padding: 5px;
+	}
+
+}
