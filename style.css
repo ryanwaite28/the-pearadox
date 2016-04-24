@@ -88,6 +88,8 @@
   color: red;
 }
 
+/* --- */
+
 .top-icons li {
   display: inline-block;
 }
@@ -121,4 +123,16 @@
   width: 50px;
   -webkit-filter: invert(1);
    filter: invert(1);
+}
+
+/* --- */
+
+.top-links li.activ {
+  background-color: white;
+}
+.top-links li.activ a {
+  color: black;
+}
+.top-links li.activ a:hover {
+  color: red;
 }
