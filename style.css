@@ -54,6 +54,9 @@
     margin: auto;
 
 }
+.slidesjs-container {
+  border: 3px solid white;
+}
 #slides img {
   padding: 3px;
 
