@@ -6,6 +6,11 @@
 		display: block;
 	}
 
+	.p-img {
+	  height: auto;
+		min-height: auto;
+	}
+
 	#topbar {
 		min-height: 100px;
 	}
