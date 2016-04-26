@@ -40,11 +40,11 @@
 
 #banner-div {
   height: 100vh;
-  background-color: black;
+  /*background-color: black;*/
 }
 
 #banner-div h3 {
-  color: white;
+  /*color: white;*/
 }
 
 #slides {
@@ -55,10 +55,10 @@
 
 }
 .slidesjs-container {
-  border: 3px solid white;
+  border: 5px solid black;
 }
 #slides img {
-  padding: 3px;
+
 
 }
 #slides a , #slides ul {
@@ -112,8 +112,8 @@
 }
 
 .top-icons li a img {
-  height: 49px;
-  width: 49px;
+  height: 50px;
+  width: 50px;
   padding: 5px;
   display: inline-block;
   -webkit-filter: invert(1);
@@ -157,6 +157,7 @@
   height: 80vh;
   width: 100%;
   background-image: url('http://i.imgur.com/h6khRT9.jpg');
+  padding: 0px;
 }
 
 #banner-text {
@@ -185,6 +186,7 @@
   height: 80vh;
   width: 100%;
   background-image: url('http://i.imgur.com/UK0ZHkt.jpg');
+  padding: 0px;
 }
 
 /* --- Photo Page --- */
@@ -194,6 +196,7 @@
   height: 80vh;
   width: 100%;
   background-image: url('http://i.imgur.com/krER5Ga.jpg');
+  padding: 0px;
 }
 
 .p-img {
