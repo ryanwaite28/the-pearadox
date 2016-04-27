@@ -10,7 +10,7 @@
 		display: block;
 	}
 
-	.p-img {
+	.p-img, .p-imh-2 {
 	  height: auto;
 		min-height: auto;
 	}
