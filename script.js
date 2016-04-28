@@ -69,7 +69,7 @@ $(document).ready(function(){
 			leftTop.show('fast');
 			rightTop.show('fast');
     }
-		else {
+		if( cWidth <= 1000 ) {
 			leftTop.hide('fast');
 			rightTop.hide('fast');
 		}
