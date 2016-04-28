@@ -39,8 +39,7 @@
 }
 
 #banner-div {
-  height: 100vh;
-  /*background-color: black;*/
+  height: auto;
 }
 
 #banner-div h3 {
@@ -53,6 +52,10 @@
     max-width: 90%;
     margin: auto;
 
+}
+
+.slidesjs-pagination {
+  display: none;
 }
 .slidesjs-container {
   border: 5px solid black;
