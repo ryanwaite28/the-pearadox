@@ -55,6 +55,10 @@
 	  padding: 5px;
 	}
 
+	.top-icons li a  {
+	  border-radius: 30px;
+	}
+
 }
 
 @media only screen and (max-height: 700px) {
