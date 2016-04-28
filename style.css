@@ -192,6 +192,7 @@
 .v-frame {
   width: 100%;
   margin-bottom: 20px;
+  border: 2px solid black;
 }
 
 /* --- Photo Page --- */
@@ -209,13 +210,14 @@
   height: 50vh;
   min-height: 325px;
   margin-bottom: 20px;
+  border: 2px solid black;
 }
 
 .p-img-2 {
   width: 100%;
   min-height: 325px;
   margin-bottom: 20px;
-  /*height: 555px;*/
+  border: 2px solid black;
 }
 
 /* --- Info Page --- */
